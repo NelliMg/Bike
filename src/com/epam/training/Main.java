@@ -15,6 +15,6 @@ public class Main {
         for (int i = 0; i < 5; i++) {
             bike.accelerate();
         }
-        bike.stop();
+        //ha ha ha ha ha ha
     }
 }
